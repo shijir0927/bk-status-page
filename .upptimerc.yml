@@ -13,7 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /bk-status-page
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/shijir0927/bk-status-page/refs/heads/master/assets/bk-icon.png
   name: BackerKit
   introTitle: "**BackerKit** is the best crowdfunding and pledge manager platform"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/BackerKit/status-page).
