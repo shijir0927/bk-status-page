@@ -7,6 +7,10 @@ sites:
     url: https://www.backerkit.com/
   - name: BackerKit Blog
     url: https://www.backerkit.com/blog/
+  - name: BackerKit BackerTracker
+    url: https://www.backerkit.com/backertracker
+  - name: BackerKit Help Center
+    url: https://help.backerkit.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
