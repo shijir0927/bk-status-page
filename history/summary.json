@@ -6,15 +6,15 @@
     "slug": "backer-kit-crowdfunding",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 275,
-    "timeDay": 170,
-    "timeWeek": 233,
-    "timeMonth": 295,
-    "timeYear": 275,
+    "time": 274,
+    "timeDay": 204,
+    "timeWeek": 234,
+    "timeMonth": 290,
+    "timeYear": 274,
     "dailyMinutesDown": {
       "2025-05-03": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 32,
-    "timeWeek": 72,
-    "timeMonth": 97,
-    "timeYear": 125,
+    "time": 124,
+    "timeDay": 37,
+    "timeWeek": 73,
+    "timeMonth": 95,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   },
   {
@@ -44,15 +44,15 @@
     "slug": "backer-kit-backer-tracker",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 272,
-    "timeDay": 152,
-    "timeWeek": 232,
-    "timeMonth": 276,
-    "timeYear": 272,
+    "time": 271,
+    "timeDay": 246,
+    "timeWeek": 235,
+    "timeMonth": 274,
+    "timeYear": 271,
     "dailyMinutesDown": {
       "2025-05-03": 21
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 250,
-    "timeWeek": 257,
-    "timeMonth": 352,
-    "timeYear": 314,
+    "time": 312,
+    "timeDay": 197,
+    "timeWeek": 264,
+    "timeMonth": 345,
+    "timeYear": 312,
     "dailyMinutesDown": {}
   }
 ]
