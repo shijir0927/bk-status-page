@@ -4,10 +4,10 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 292,
@@ -16,6 +16,7 @@
     "timeMonth": 307,
     "timeYear": 292,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2025-11-18": 145,
       "2025-10-20": 16,
       "2025-08-21": 33,
@@ -27,9 +28,9 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -39,6 +40,7 @@
     "timeMonth": 28,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2025-11-18": 145,
       "2025-08-21": 33
     }
