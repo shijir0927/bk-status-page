@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "96.37%",
+    "uptime": "96.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "12.41%",
-    "uptimeMonth": "48.05%",
-    "uptimeYear": "95.63%",
+    "uptimeMonth": "47.69%",
+    "uptimeYear": "95.60%",
     "time": 269,
     "timeDay": 16,
     "timeWeek": 91,
@@ -39,7 +39,7 @@
       "2026-05-24": 1379,
       "2026-05-23": 1440,
       "2026-05-25": 1296,
-      "2026-05-27": 204,
+      "2026-05-27": 363,
       "2026-05-26": 1440
     }
   },
@@ -48,16 +48,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "96.48%",
-    "uptimeDay": "62.13%",
-    "uptimeWeek": "27.28%",
-    "uptimeMonth": "49.58%",
-    "uptimeYear": "95.76%",
+    "status": "up",
+    "uptime": "96.45%",
+    "uptimeDay": "60.34%",
+    "uptimeWeek": "27.29%",
+    "uptimeMonth": "49.22%",
+    "uptimeYear": "95.73%",
     "time": 119,
-    "timeDay": 111,
-    "timeWeek": 94,
-    "timeMonth": 73,
+    "timeDay": 100,
+    "timeWeek": 98,
+    "timeMonth": 74,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -83,7 +83,7 @@
       "2026-05-23": 1440,
       "2026-05-25": 1202,
       "2026-05-26": 653,
-      "2026-05-27": 97
+      "2026-05-27": 255
     }
   },
   {
@@ -92,13 +92,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "95.83%",
-    "uptimeDay": "45.93%",
+    "uptime": "95.81%",
+    "uptimeDay": "36.69%",
     "uptimeWeek": "22.73%",
-    "uptimeMonth": "49.54%",
-    "uptimeYear": "94.99%",
+    "uptimeMonth": "49.18%",
+    "uptimeYear": "94.96%",
     "time": 293,
-    "timeDay": 60,
+    "timeDay": 74,
     "timeWeek": 169,
     "timeMonth": 192,
     "timeYear": 294,
@@ -129,7 +129,7 @@
       "2026-05-24": 1438,
       "2026-05-25": 1187,
       "2026-05-26": 658,
-      "2026-05-27": 204
+      "2026-05-27": 363
     }
   },
   {
