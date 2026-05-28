@@ -4,15 +4,15 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "96.14%",
-    "uptimeDay": "21.04%",
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "21.05%",
     "uptimeWeek": "15.42%",
-    "uptimeMonth": "44.69%",
-    "uptimeYear": "95.35%",
+    "uptimeMonth": "44.22%",
+    "uptimeYear": "95.31%",
     "time": 298,
-    "timeDay": 3274,
-    "timeWeek": 786,
+    "timeDay": 2781,
+    "timeWeek": 766,
     "timeMonth": 272,
     "timeYear": 301,
     "dailyMinutesDown": {
@@ -41,7 +41,7 @@
       "2026-05-25": 1296,
       "2026-05-27": 1137,
       "2026-05-26": 1440,
-      "2026-05-28": 541
+      "2026-05-28": 746
     }
   },
   {
@@ -49,16 +49,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "47.62%",
+    "status": "up",
+    "uptime": "96.31%",
+    "uptimeDay": "42.74%",
     "uptimeWeek": "33.17%",
-    "uptimeMonth": "47.50%",
-    "uptimeYear": "95.59%",
+    "uptimeMonth": "47.03%",
+    "uptimeYear": "95.55%",
     "time": 118,
-    "timeDay": 43,
-    "timeWeek": 81,
-    "timeMonth": 72,
+    "timeDay": 65,
+    "timeWeek": 86,
+    "timeMonth": 74,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -85,7 +85,7 @@
       "2026-05-25": 1202,
       "2026-05-26": 653,
       "2026-05-27": 757,
-      "2026-05-28": 252
+      "2026-05-28": 458
     }
   },
   {
@@ -95,13 +95,13 @@
     "slug": "backer-kit-backer-tracker",
     "status": "up",
     "uptime": "95.70%",
-    "uptimeDay": "61.03%",
-    "uptimeWeek": "30.46%",
+    "uptimeDay": "65.92%",
+    "uptimeWeek": "30.78%",
     "uptimeMonth": "47.49%",
     "uptimeYear": "94.82%",
     "time": 293,
-    "timeDay": 330,
-    "timeWeek": 210,
+    "timeDay": 326,
+    "timeWeek": 217,
     "timeMonth": 201,
     "timeYear": 294,
     "dailyMinutesDown": {
