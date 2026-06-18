@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "92.27%",
+    "uptime": "92.25%",
     "uptimeDay": "26.45%",
     "uptimeWeek": "11.96%",
-    "uptimeMonth": "12.70%",
-    "uptimeYear": "90.23%",
+    "uptimeMonth": "12.28%",
+    "uptimeYear": "90.19%",
     "time": 279,
     "timeDay": 139,
     "timeWeek": 77,
@@ -62,7 +62,7 @@
       "2026-06-09": 1440,
       "2026-06-17": 1325,
       "2026-06-16": 1440,
-      "2026-06-18": 384
+      "2026-06-18": 567
     }
   },
   {
@@ -70,16 +70,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "92.73%",
-    "uptimeDay": "20.00%",
+    "status": "up",
+    "uptime": "92.70%",
+    "uptimeDay": "20.02%",
     "uptimeWeek": "6.79%",
-    "uptimeMonth": "19.89%",
-    "uptimeYear": "90.80%",
+    "uptimeMonth": "19.47%",
+    "uptimeYear": "90.77%",
     "time": 113,
-    "timeDay": 106,
-    "timeWeek": 80,
-    "timeMonth": 74,
+    "timeDay": 88,
+    "timeWeek": 76,
+    "timeMonth": 73,
     "timeYear": 87,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -125,7 +125,7 @@
       "2026-06-12": 1440,
       "2026-06-15": 1163,
       "2026-06-14": 1440,
-      "2026-06-18": 362,
+      "2026-06-18": 545,
       "2026-06-17": 1440,
       "2026-06-16": 1440
     }
@@ -136,11 +136,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "92.07%",
+    "uptime": "92.05%",
     "uptimeDay": "28.01%",
     "uptimeWeek": "13.59%",
-    "uptimeMonth": "18.48%",
-    "uptimeYear": "89.98%",
+    "uptimeMonth": "18.06%",
+    "uptimeYear": "89.94%",
     "time": 276,
     "timeDay": 156,
     "timeWeek": 146,
@@ -195,7 +195,7 @@
       "2026-06-15": 1163,
       "2026-06-17": 1009,
       "2026-06-16": 1440,
-      "2026-06-18": 362
+      "2026-06-18": 545
     }
   },
   {
