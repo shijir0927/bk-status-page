@@ -4,16 +4,16 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "90.25%",
-    "uptimeDay": "3.64%",
-    "uptimeWeek": "10.45%",
+    "status": "up",
+    "uptime": "90.24%",
+    "uptimeDay": "3.66%",
+    "uptimeWeek": "9.88%",
     "uptimeMonth": "8.11%",
-    "uptimeYear": "87.36%",
+    "uptimeYear": "87.35%",
     "time": 270,
-    "timeDay": 116,
-    "timeWeek": 97,
-    "timeMonth": 84,
+    "timeDay": 134,
+    "timeWeek": 101,
+    "timeMonth": 85,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -73,7 +73,7 @@
       "2026-06-26": 1332,
       "2026-06-28": 1252,
       "2026-06-27": 1440,
-      "2026-06-29": 1309
+      "2026-06-29": 1367
     }
   },
   {
@@ -83,8 +83,8 @@
     "slug": "backer-kit-blog",
     "status": "up",
     "uptime": "90.58%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "3.84%",
+    "uptimeDay": "4.04%",
+    "uptimeWeek": "4.42%",
     "uptimeMonth": "9.46%",
     "uptimeYear": "87.78%",
     "time": 111,
@@ -158,13 +158,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "90.09%",
-    "uptimeDay": "22.48%",
+    "uptime": "90.08%",
+    "uptimeDay": "20.08%",
     "uptimeWeek": "8.76%",
-    "uptimeMonth": "11.04%",
-    "uptimeYear": "87.16%",
+    "uptimeMonth": "10.91%",
+    "uptimeYear": "87.15%",
     "time": 270,
-    "timeDay": 146,
+    "timeDay": 188,
     "timeWeek": 150,
     "timeMonth": 139,
     "timeYear": 266,
@@ -228,7 +228,7 @@
       "2026-06-27": 1311,
       "2026-06-26": 1440,
       "2026-06-28": 1376,
-      "2026-06-29": 1073
+      "2026-06-29": 1131
     }
   },
   {
