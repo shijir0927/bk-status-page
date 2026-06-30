@@ -4,16 +4,16 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "90.22%",
-    "uptimeDay": "5.31%",
-    "uptimeWeek": "9.27%",
-    "uptimeMonth": "8.17%",
-    "uptimeYear": "87.32%",
+    "status": "up",
+    "uptime": "90.13%",
+    "uptimeDay": "5.34%",
+    "uptimeWeek": "7.57%",
+    "uptimeMonth": "7.08%",
+    "uptimeYear": "87.20%",
     "time": 269,
-    "timeDay": 135,
-    "timeWeek": 105,
-    "timeMonth": 85,
+    "timeDay": 161,
+    "timeWeek": 117,
+    "timeMonth": 88,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -74,7 +74,7 @@
       "2026-06-28": 1252,
       "2026-06-27": 1440,
       "2026-06-29": 1367,
-      "2026-06-30": 171
+      "2026-06-30": 801
     }
   },
   {
@@ -82,17 +82,17 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "90.57%",
-    "uptimeDay": "11.98%",
+    "status": "up",
+    "uptime": "90.48%",
+    "uptimeDay": "12.00%",
     "uptimeWeek": "5.55%",
-    "uptimeMonth": "9.66%",
-    "uptimeYear": "87.77%",
+    "uptimeMonth": "8.57%",
+    "uptimeYear": "87.65%",
     "time": 110,
-    "timeDay": 107,
-    "timeWeek": 66,
-    "timeMonth": 61,
-    "timeYear": 61,
+    "timeDay": 116,
+    "timeWeek": 71,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {
       "2025-08-21": 33,
       "2025-11-18": 145,
@@ -151,7 +151,7 @@
       "2026-06-28": 1300,
       "2026-06-27": 1440,
       "2026-06-29": 1362,
-      "2026-06-30": 81
+      "2026-06-30": 710
     }
   },
   {
@@ -160,13 +160,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "90.06%",
-    "uptimeDay": "20.08%",
+    "uptime": "89.97%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "8.76%",
-    "uptimeMonth": "10.88%",
-    "uptimeYear": "87.11%",
+    "uptimeMonth": "9.79%",
+    "uptimeYear": "86.99%",
     "time": 270,
-    "timeDay": 188,
+    "timeDay": 18,
     "timeWeek": 150,
     "timeMonth": 140,
     "timeYear": 266,
@@ -231,7 +231,7 @@
       "2026-06-26": 1440,
       "2026-06-28": 1376,
       "2026-06-29": 1151,
-      "2026-06-30": 175
+      "2026-06-30": 805
     }
   },
   {
