@@ -4,15 +4,15 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "90.09%",
-    "uptimeDay": "40.67%",
+    "status": "up",
+    "uptime": "89.98%",
+    "uptimeDay": "23.55%",
     "uptimeWeek": "13.38%",
-    "uptimeMonth": "9.93%",
-    "uptimeYear": "87.12%",
+    "uptimeMonth": "9.11%",
+    "uptimeYear": "86.97%",
     "time": 267,
-    "timeDay": 115,
-    "timeWeek": 114,
+    "timeDay": 121,
+    "timeWeek": 115,
     "timeMonth": 87,
     "timeYear": 266,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
       "2026-06-27": 1440,
       "2026-06-29": 1367,
       "2026-06-30": 1110,
-      "2026-07-01": 114
+      "2026-07-01": 897
     }
   },
   {
@@ -83,16 +83,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "90.37%",
-    "uptimeDay": "9.69%",
-    "uptimeWeek": "6.93%",
-    "uptimeMonth": "9.41%",
-    "uptimeYear": "87.48%",
+    "status": "up",
+    "uptime": "90.27%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "6.94%",
+    "uptimeMonth": "8.59%",
+    "uptimeYear": "87.33%",
     "time": 110,
-    "timeDay": 60,
-    "timeWeek": 66,
-    "timeMonth": 63,
+    "timeDay": 24,
+    "timeWeek": 64,
+    "timeMonth": 62,
     "timeYear": 61,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -153,7 +153,7 @@
       "2026-06-27": 1440,
       "2026-06-29": 1362,
       "2026-06-30": 1206,
-      "2026-07-01": 373
+      "2026-07-01": 1155
     }
   },
   {
@@ -162,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "89.84%",
+    "uptime": "89.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.76%",
-    "uptimeMonth": "10.35%",
-    "uptimeYear": "86.80%",
+    "uptimeMonth": "10.22%",
+    "uptimeYear": "86.65%",
     "time": 270,
     "timeDay": 17,
     "timeWeek": 148,
-    "timeMonth": 139,
+    "timeMonth": 135,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -233,7 +233,7 @@
       "2026-06-26": 1440,
       "2026-06-28": 1376,
       "2026-06-29": 1151,
-      "2026-07-01": 373,
+      "2026-07-01": 1156,
       "2026-06-30": 1440
     }
   },
