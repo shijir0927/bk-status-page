@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "89.58%",
+    "uptime": "89.56%",
     "uptimeDay": "7.88%",
-    "uptimeWeek": "75.11%",
+    "uptimeWeek": "73.61%",
     "uptimeMonth": "31.35%",
-    "uptimeYear": "86.16%",
+    "uptimeYear": "86.13%",
     "time": 261,
     "timeDay": 120,
     "timeWeek": 140,
@@ -80,7 +80,7 @@
       "2026-07-03": 563,
       "2026-07-10": 1393,
       "2026-07-09": 343,
-      "2026-07-11": 773
+      "2026-07-11": 923
     }
   },
   {
@@ -88,15 +88,15 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "89.92%",
-    "uptimeDay": "12.69%",
-    "uptimeWeek": "77.85%",
+    "status": "up",
+    "uptime": "89.90%",
+    "uptimeDay": "5.68%",
+    "uptimeWeek": "76.36%",
     "uptimeMonth": "28.65%",
-    "uptimeYear": "86.61%",
+    "uptimeYear": "86.58%",
     "time": 109,
     "timeDay": 103,
-    "timeWeek": 92,
+    "timeWeek": 89,
     "timeMonth": 70,
     "timeYear": 60,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
       "2026-07-03": 697,
       "2026-07-09": 173,
       "2026-07-10": 1302,
-      "2026-07-11": 758
+      "2026-07-11": 909
     }
   },
   {
@@ -172,13 +172,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "89.36%",
-    "uptimeDay": "23.18%",
-    "uptimeWeek": "79.55%",
+    "uptime": "89.34%",
+    "uptimeDay": "16.13%",
+    "uptimeWeek": "78.05%",
     "uptimeMonth": "31.28%",
-    "uptimeYear": "85.87%",
+    "uptimeYear": "85.84%",
     "time": 266,
-    "timeDay": 134,
+    "timeDay": 146,
     "timeWeek": 217,
     "timeMonth": 164,
     "timeYear": 261,
@@ -249,7 +249,7 @@
       "2026-07-03": 651,
       "2026-07-09": 268,
       "2026-07-10": 1128,
-      "2026-07-11": 665
+      "2026-07-11": 816
     }
   },
   {
