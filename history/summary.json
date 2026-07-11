@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "89.55%",
+    "uptime": "89.52%",
     "uptimeDay": "7.88%",
-    "uptimeWeek": "73.03%",
+    "uptimeWeek": "70.84%",
     "uptimeMonth": "31.35%",
-    "uptimeYear": "86.12%",
+    "uptimeYear": "86.08%",
     "time": 261,
     "timeDay": 120,
     "timeWeek": 140,
@@ -80,7 +80,7 @@
       "2026-07-03": 563,
       "2026-07-10": 1393,
       "2026-07-09": 343,
-      "2026-07-11": 983
+      "2026-07-11": 1203
     }
   },
   {
@@ -89,11 +89,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "89.90%",
+    "uptime": "89.87%",
     "uptimeDay": "9.78%",
-    "uptimeWeek": "76.35%",
+    "uptimeWeek": "74.17%",
     "uptimeMonth": "28.78%",
-    "uptimeYear": "86.58%",
+    "uptimeYear": "86.54%",
     "time": 109,
     "timeDay": 91,
     "timeWeek": 86,
@@ -163,7 +163,7 @@
       "2026-07-03": 697,
       "2026-07-09": 173,
       "2026-07-10": 1302,
-      "2026-07-11": 909
+      "2026-07-11": 1130
     }
   },
   {
@@ -171,16 +171,16 @@
     "url": "https://www.backerkit.com/backertracker",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
-    "status": "down",
-    "uptime": "89.33%",
-    "uptimeDay": "16.13%",
-    "uptimeWeek": "77.46%",
+    "status": "up",
+    "uptime": "89.30%",
+    "uptimeDay": "16.15%",
+    "uptimeWeek": "75.28%",
     "uptimeMonth": "31.28%",
-    "uptimeYear": "85.83%",
+    "uptimeYear": "85.79%",
     "time": 266,
-    "timeDay": 146,
-    "timeWeek": 217,
-    "timeMonth": 164,
+    "timeDay": 189,
+    "timeWeek": 232,
+    "timeMonth": 168,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -249,7 +249,7 @@
       "2026-07-03": 651,
       "2026-07-09": 268,
       "2026-07-10": 1128,
-      "2026-07-11": 875
+      "2026-07-11": 1096
     }
   },
   {
