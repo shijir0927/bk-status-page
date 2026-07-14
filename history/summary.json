@@ -4,17 +4,17 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "89.15%",
-    "uptimeDay": "26.97%",
-    "uptimeWeek": "40.95%",
+    "status": "up",
+    "uptime": "89.13%",
+    "uptimeDay": "27.01%",
+    "uptimeWeek": "39.99%",
     "uptimeMonth": "32.72%",
-    "uptimeYear": "85.50%",
+    "uptimeYear": "85.49%",
     "time": 258,
-    "timeDay": 137,
-    "timeWeek": 110,
-    "timeMonth": 110,
-    "timeYear": 257,
+    "timeDay": 141,
+    "timeWeek": 112,
+    "timeMonth": 111,
+    "timeYear": 256,
     "dailyMinutesDown": {
       "2025-08-21": 33,
       "2025-10-20": 16,
@@ -83,7 +83,7 @@
       "2026-07-11": 1373,
       "2026-07-12": 1232,
       "2026-07-13": 1318,
-      "2026-07-14": 294
+      "2026-07-14": 391
     }
   },
   {
@@ -92,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "89.48%",
+    "uptime": "89.46%",
     "uptimeDay": "32.92%",
-    "uptimeWeek": "43.06%",
+    "uptimeWeek": "42.09%",
     "uptimeMonth": "29.59%",
-    "uptimeYear": "85.94%",
+    "uptimeYear": "85.92%",
     "time": 108,
     "timeDay": 108,
     "timeWeek": 85,
@@ -169,7 +169,7 @@
       "2026-07-11": 1299,
       "2026-07-13": 1085,
       "2026-07-12": 1440,
-      "2026-07-14": 441
+      "2026-07-14": 539
     }
   },
   {
@@ -178,15 +178,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "88.92%",
+    "uptime": "88.91%",
     "uptimeDay": "27.22%",
-    "uptimeWeek": "44.60%",
-    "uptimeMonth": "31.89%",
-    "uptimeYear": "85.20%",
+    "uptimeWeek": "43.63%",
+    "uptimeMonth": "31.78%",
+    "uptimeYear": "85.18%",
     "time": 264,
     "timeDay": 158,
     "timeWeek": 173,
-    "timeMonth": 164,
+    "timeMonth": 161,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -258,7 +258,7 @@
       "2026-07-11": 1212,
       "2026-07-12": 1369,
       "2026-07-13": 1196,
-      "2026-07-14": 412
+      "2026-07-14": 510
     }
   },
   {
