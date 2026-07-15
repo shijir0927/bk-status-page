@@ -6,14 +6,14 @@
     "slug": "backer-kit-crowdfunding",
     "status": "down",
     "uptime": "89.07%",
-    "uptimeDay": "35.08%",
-    "uptimeWeek": "34.65%",
+    "uptimeDay": "35.04%",
+    "uptimeWeek": "34.46%",
     "uptimeMonth": "33.26%",
     "uptimeYear": "85.38%",
     "time": 256,
-    "timeDay": 111,
-    "timeWeek": 108,
-    "timeMonth": 109,
+    "timeDay": 118,
+    "timeWeek": 104,
+    "timeMonth": 110,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -83,7 +83,8 @@
       "2026-07-11": 1373,
       "2026-07-12": 1232,
       "2026-07-13": 1318,
-      "2026-07-14": 930
+      "2026-07-14": 937,
+      "2026-07-15": 13
     }
   },
   {
@@ -91,16 +92,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "89.40%",
-    "uptimeDay": "22.45%",
-    "uptimeWeek": "36.43%",
+    "status": "up",
+    "uptime": "89.39%",
+    "uptimeDay": "22.47%",
+    "uptimeWeek": "36.24%",
     "uptimeMonth": "30.06%",
     "uptimeYear": "85.81%",
     "time": 108,
     "timeDay": 90,
-    "timeWeek": 83,
-    "timeMonth": 72,
+    "timeWeek": 79,
+    "timeMonth": 73,
     "timeYear": 58,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -169,7 +170,8 @@
       "2026-07-11": 1299,
       "2026-07-13": 1085,
       "2026-07-12": 1440,
-      "2026-07-14": 1110
+      "2026-07-14": 1117,
+      "2026-07-15": 12
     }
   },
   {
@@ -180,13 +182,13 @@
     "status": "down",
     "uptime": "88.82%",
     "uptimeDay": "17.54%",
-    "uptimeWeek": "36.97%",
+    "uptimeWeek": "36.78%",
     "uptimeMonth": "31.85%",
-    "uptimeYear": "85.06%",
+    "uptimeYear": "85.05%",
     "time": 263,
-    "timeDay": 130,
-    "timeWeek": 167,
-    "timeMonth": 161,
+    "timeDay": 151,
+    "timeWeek": 148,
+    "timeMonth": 162,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-08-21": 33,
@@ -258,7 +260,8 @@
       "2026-07-11": 1212,
       "2026-07-12": 1369,
       "2026-07-13": 1196,
-      "2026-07-14": 1181
+      "2026-07-14": 1188,
+      "2026-07-15": 13
     }
   },
   {
@@ -273,9 +276,9 @@
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.94%",
     "time": 371,
-    "timeDay": 5746,
-    "timeWeek": 2118,
-    "timeMonth": 787,
+    "timeDay": 8532,
+    "timeWeek": 2331,
+    "timeMonth": 807,
     "timeYear": 397,
     "dailyMinutesDown": {
       "2025-12-20": 40,
