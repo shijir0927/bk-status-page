@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "88.78%",
+    "uptime": "88.75%",
     "uptimeDay": "29.77%",
     "uptimeWeek": "15.69%",
     "uptimeMonth": "32.82%",
-    "uptimeYear": "84.93%",
+    "uptimeYear": "84.88%",
     "time": 254,
     "timeDay": 96,
     "timeWeek": 103,
@@ -86,7 +86,7 @@
       "2026-07-14": 937,
       "2026-07-15": 1236,
       "2026-07-16": 1069,
-      "2026-07-17": 76
+      "2026-07-17": 310
     }
   },
   {
@@ -94,15 +94,15 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "89.15%",
-    "uptimeDay": "38.31%",
-    "uptimeWeek": "19.11%",
+    "status": "up",
+    "uptime": "89.12%",
+    "uptimeDay": "22.14%",
+    "uptimeWeek": "19.12%",
     "uptimeMonth": "31.64%",
-    "uptimeYear": "85.42%",
+    "uptimeYear": "85.38%",
     "time": 107,
     "timeDay": 91,
-    "timeWeek": 83,
+    "timeWeek": 82,
     "timeMonth": 73,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -175,7 +175,7 @@
       "2026-07-14": 1117,
       "2026-07-15": 1100,
       "2026-07-16": 869,
-      "2026-07-17": 76
+      "2026-07-17": 309
     }
   },
   {
@@ -183,15 +183,15 @@
     "url": "https://www.backerkit.com/backertracker",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
-    "status": "down",
-    "uptime": "88.52%",
-    "uptimeDay": "17.82%",
-    "uptimeWeek": "15.22%",
-    "uptimeMonth": "32.18%",
-    "uptimeYear": "84.58%",
+    "status": "up",
+    "uptime": "88.49%",
+    "uptimeDay": "17.83%",
+    "uptimeWeek": "15.23%",
+    "uptimeMonth": "31.65%",
+    "uptimeYear": "84.53%",
     "time": 261,
-    "timeDay": 105,
-    "timeWeek": 139,
+    "timeDay": 117,
+    "timeWeek": 140,
     "timeMonth": 157,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -266,7 +266,7 @@
       "2026-07-14": 1188,
       "2026-07-15": 1269,
       "2026-07-16": 1183,
-      "2026-07-17": 134
+      "2026-07-17": 367
     }
   },
   {
