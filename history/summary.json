@@ -10,11 +10,11 @@
     "uptimeWeek": "17.23%",
     "uptimeMonth": "32.56%",
     "uptimeYear": "84.46%",
-    "time": 253,
-    "timeDay": 52,
-    "timeWeek": 112,
-    "timeMonth": 113,
-    "timeYear": 250,
+    "time": 252,
+    "timeDay": 50,
+    "timeWeek": 110,
+    "timeMonth": 112,
+    "timeYear": 249,
     "dailyMinutesDown": {
       "2025-08-21": 33,
       "2025-10-20": 16,
@@ -87,7 +87,7 @@
       "2026-07-15": 1236,
       "2026-07-16": 1069,
       "2026-07-17": 1186,
-      "2026-07-18": 1352
+      "2026-07-18": 1362
     }
   },
   {
@@ -95,20 +95,20 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "up",
-    "uptime": "88.89%",
-    "uptimeDay": "6.55%",
-    "uptimeWeek": "19.95%",
-    "uptimeMonth": "31.41%",
-    "uptimeYear": "85.01%",
+    "status": "down",
+    "uptime": "88.91%",
+    "uptimeDay": "7.18%",
+    "uptimeWeek": "20.04%",
+    "uptimeMonth": "31.43%",
+    "uptimeYear": "85.04%",
     "time": 107,
-    "timeDay": 108,
-    "timeWeek": 86,
-    "timeMonth": 76,
+    "timeDay": 110,
+    "timeWeek": 84,
+    "timeMonth": 75,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-05-07": 550,
       "2026-05-08": 1277,
+      "2026-05-07": 404,
       "2026-05-09": 1388,
       "2026-05-10": 977,
       "2026-05-11": 1229,
@@ -190,8 +190,8 @@
     "uptimeYear": "85.21%",
     "time": 261,
     "timeDay": 392,
-    "timeWeek": 182,
-    "timeMonth": 175,
+    "timeWeek": 178,
+    "timeMonth": 174,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2026-05-08": 236,
@@ -260,7 +260,7 @@
       "2026-07-15": 1269,
       "2026-07-16": 1183,
       "2026-07-17": 1149,
-      "2026-07-18": 1240
+      "2026-07-18": 1249
     }
   },
   {
@@ -274,10 +274,10 @@
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.94%",
-    "time": 372,
-    "timeDay": 1131,
-    "timeWeek": 2421,
-    "timeMonth": 837,
+    "time": 373,
+    "timeDay": 403,
+    "timeWeek": 2197,
+    "timeMonth": 824,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2025-12-20": 40,
