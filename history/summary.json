@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "88.49%",
+    "uptime": "88.47%",
     "uptimeDay": "4.98%",
     "uptimeWeek": "17.23%",
     "uptimeMonth": "32.56%",
-    "uptimeYear": "84.48%",
+    "uptimeYear": "84.46%",
     "time": 253,
     "timeDay": 52,
     "timeWeek": 112,
@@ -87,7 +87,7 @@
       "2026-07-15": 1236,
       "2026-07-16": 1069,
       "2026-07-17": 1186,
-      "2026-07-18": 1252
+      "2026-07-18": 1352
     }
   },
   {
@@ -95,16 +95,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "88.90%",
-    "uptimeDay": "6.53%",
+    "status": "up",
+    "uptime": "88.89%",
+    "uptimeDay": "6.55%",
     "uptimeWeek": "19.95%",
     "uptimeMonth": "31.41%",
-    "uptimeYear": "85.03%",
+    "uptimeYear": "85.01%",
     "time": 107,
-    "timeDay": 107,
-    "timeWeek": 85,
-    "timeMonth": 75,
+    "timeDay": 108,
+    "timeWeek": 86,
+    "timeMonth": 76,
     "timeYear": 60,
     "dailyMinutesDown": {
       "2026-05-07": 550,
@@ -174,7 +174,7 @@
       "2026-07-15": 1100,
       "2026-07-16": 869,
       "2026-07-17": 1113,
-      "2026-07-18": 1229
+      "2026-07-18": 1329
     }
   },
   {
@@ -183,14 +183,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "89.04%",
+    "uptime": "89.03%",
     "uptimeDay": "12.80%",
     "uptimeWeek": "14.59%",
     "uptimeMonth": "31.31%",
-    "uptimeYear": "85.23%",
+    "uptimeYear": "85.21%",
     "time": 261,
     "timeDay": 392,
-    "timeWeek": 178,
+    "timeWeek": 182,
     "timeMonth": 175,
     "timeYear": 255,
     "dailyMinutesDown": {
@@ -260,7 +260,7 @@
       "2026-07-15": 1269,
       "2026-07-16": 1183,
       "2026-07-17": 1149,
-      "2026-07-18": 1139
+      "2026-07-18": 1240
     }
   },
   {
