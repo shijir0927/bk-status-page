@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "88.40%",
+    "uptime": "88.38%",
     "uptimeDay": "4.98%",
     "uptimeWeek": "15.70%",
     "uptimeMonth": "32.56%",
-    "uptimeYear": "84.35%",
+    "uptimeYear": "84.31%",
     "time": 252,
     "timeDay": 50,
     "timeWeek": 114,
@@ -88,7 +88,7 @@
       "2026-07-16": 1069,
       "2026-07-17": 1186,
       "2026-07-18": 1369,
-      "2026-07-19": 551
+      "2026-07-19": 753
     }
   },
   {
@@ -97,13 +97,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "88.84%",
-    "uptimeDay": "7.18%",
+    "uptime": "88.81%",
+    "uptimeDay": "3.77%",
     "uptimeWeek": "20.04%",
     "uptimeMonth": "31.43%",
-    "uptimeYear": "84.93%",
+    "uptimeYear": "84.89%",
     "time": 107,
-    "timeDay": 110,
+    "timeDay": 85,
     "timeWeek": 86,
     "timeMonth": 76,
     "timeYear": 60,
@@ -176,7 +176,7 @@
       "2026-07-16": 869,
       "2026-07-17": 1113,
       "2026-07-18": 1336,
-      "2026-07-19": 551
+      "2026-07-19": 753
     }
   },
   {
@@ -184,15 +184,15 @@
     "url": "https://www.backerkit.com/backertracker",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
-    "status": "down",
-    "uptime": "89.01%",
-    "uptimeDay": "21.53%",
-    "uptimeWeek": "15.83%",
-    "uptimeMonth": "31.59%",
-    "uptimeYear": "85.17%",
+    "status": "up",
+    "uptime": "88.99%",
+    "uptimeDay": "21.54%",
+    "uptimeWeek": "15.84%",
+    "uptimeMonth": "31.48%",
+    "uptimeYear": "85.13%",
     "time": 261,
-    "timeDay": 326,
-    "timeWeek": 178,
+    "timeDay": 313,
+    "timeWeek": 179,
     "timeMonth": 173,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -262,7 +262,7 @@
       "2026-07-16": 1183,
       "2026-07-17": 1149,
       "2026-07-18": 1256,
-      "2026-07-19": 425
+      "2026-07-19": 627
     }
   },
   {
