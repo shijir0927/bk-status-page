@@ -4,15 +4,15 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "87.72%",
-    "uptimeDay": "3.22%",
-    "uptimeWeek": "12.67%",
+    "status": "up",
+    "uptime": "87.70%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "12.07%",
     "uptimeMonth": "32.21%",
-    "uptimeYear": "83.29%",
+    "uptimeYear": "83.26%",
     "time": 249,
-    "timeDay": 20,
-    "timeWeek": 100,
+    "timeDay": 84,
+    "timeWeek": 98,
     "timeMonth": 111,
     "timeYear": 246,
     "dailyMinutesDown": {
@@ -92,7 +92,7 @@
       "2026-07-19": 1440,
       "2026-07-21": 1293,
       "2026-07-22": 1066,
-      "2026-07-23": 976
+      "2026-07-23": 1129
     }
   },
   {
@@ -101,14 +101,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "88.94%",
-    "uptimeDay": "4.95%",
-    "uptimeWeek": "15.15%",
+    "uptime": "88.92%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "14.55%",
     "uptimeMonth": "33.31%",
-    "uptimeYear": "84.94%",
+    "uptimeYear": "84.91%",
     "time": 107,
-    "timeDay": 38,
-    "timeWeek": 82,
+    "timeDay": 15,
+    "timeWeek": 80,
     "timeMonth": 79,
     "timeYear": 60,
     "dailyMinutesDown": {
@@ -179,7 +179,7 @@
       "2026-07-20": 1379,
       "2026-07-21": 1230,
       "2026-07-22": 841,
-      "2026-07-23": 977
+      "2026-07-23": 1130
     }
   },
   {
@@ -188,13 +188,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "88.75%",
-    "uptimeDay": "17.53%",
-    "uptimeWeek": "18.30%",
+    "uptime": "88.73%",
+    "uptimeDay": "14.29%",
+    "uptimeWeek": "18.29%",
     "uptimeMonth": "32.70%",
-    "uptimeYear": "84.69%",
+    "uptimeYear": "84.66%",
     "time": 257,
-    "timeDay": 154,
+    "timeDay": 198,
     "timeWeek": 193,
     "timeMonth": 174,
     "timeYear": 250,
@@ -267,7 +267,7 @@
       "2026-07-20": 1283,
       "2026-07-21": 1077,
       "2026-07-22": 1072,
-      "2026-07-23": 771
+      "2026-07-23": 924
     }
   },
   {
