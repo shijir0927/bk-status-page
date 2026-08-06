@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "85.48%",
+    "uptime": "85.45%",
     "uptimeDay": "1.17%",
     "uptimeWeek": "0.17%",
-    "uptimeMonth": "16.67%",
-    "uptimeYear": "79.70%",
+    "uptimeMonth": "15.99%",
+    "uptimeYear": "79.64%",
     "time": 243,
     "timeDay": 192,
     "timeWeek": 78,
@@ -104,7 +104,7 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
-      "2026-08-06": 129
+      "2026-08-06": 426
     }
   },
   {
@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "87.08%",
+    "uptime": "87.04%",
     "uptimeDay": "15.83%",
     "uptimeWeek": "4.39%",
-    "uptimeMonth": "19.39%",
-    "uptimeYear": "81.93%",
+    "uptimeMonth": "18.71%",
+    "uptimeYear": "81.87%",
     "time": 103,
     "timeDay": 85,
     "timeWeek": 63,
@@ -203,7 +203,7 @@
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
-      "2026-08-06": 129
+      "2026-08-06": 427
     }
   },
   {
@@ -211,17 +211,17 @@
     "url": "https://www.backerkit.com/backertracker",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
-    "status": "down",
-    "uptime": "87.33%",
-    "uptimeDay": "6.04%",
-    "uptimeWeek": "0.86%",
-    "uptimeMonth": "19.40%",
-    "uptimeYear": "82.29%",
+    "status": "up",
+    "uptime": "87.30%",
+    "uptimeDay": "6.06%",
+    "uptimeWeek": "0.87%",
+    "uptimeMonth": "18.72%",
+    "uptimeYear": "82.24%",
     "time": 253,
-    "timeDay": 211,
-    "timeWeek": 107,
-    "timeMonth": 165,
-    "timeYear": 242,
+    "timeDay": 271,
+    "timeWeek": 144,
+    "timeMonth": 168,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2026-05-16": 947,
       "2026-05-17": 1232,
@@ -300,7 +300,7 @@
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
-      "2026-08-06": 129
+      "2026-08-06": 426
     }
   },
   {
