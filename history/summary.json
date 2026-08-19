@@ -4,16 +4,16 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
+    "status": "up",
     "uptime": "84.85%",
-    "uptimeDay": "7.69%",
-    "uptimeWeek": "3.73%",
+    "uptimeDay": "5.87%",
+    "uptimeWeek": "3.71%",
     "uptimeMonth": "2.47%",
-    "uptimeYear": "78.25%",
+    "uptimeYear": "78.24%",
     "time": 234,
-    "timeDay": 132,
-    "timeWeek": 109,
-    "timeMonth": 94,
+    "timeDay": 147,
+    "timeWeek": 115,
+    "timeMonth": 96,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-05-16": 663,
@@ -106,7 +106,7 @@
       "2026-08-16": 1421,
       "2026-08-18": 1322,
       "2026-08-17": 1440,
-      "2026-08-19": 1036
+      "2026-08-19": 1092
     }
   },
   {
@@ -115,11 +115,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "85.98%",
+    "uptime": "85.97%",
     "uptimeDay": "5.76%",
     "uptimeWeek": "27.46%",
     "uptimeMonth": "8.16%",
-    "uptimeYear": "79.87%",
+    "uptimeYear": "79.86%",
     "time": 104,
     "timeDay": 54,
     "timeWeek": 61,
@@ -212,7 +212,7 @@
       "2026-08-14": 1440,
       "2026-08-17": 834,
       "2026-08-16": 286,
-      "2026-08-19": 1020,
+      "2026-08-19": 1076,
       "2026-08-18": 1024
     }
   },
@@ -222,14 +222,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "86.65%",
+    "uptime": "86.64%",
     "uptimeDay": "4.02%",
-    "uptimeWeek": "5.15%",
+    "uptimeWeek": "5.14%",
     "uptimeMonth": "4.28%",
-    "uptimeYear": "80.83%",
+    "uptimeYear": "80.82%",
     "time": 246,
     "timeDay": 152,
-    "timeWeek": 144,
+    "timeWeek": 135,
     "timeMonth": 144,
     "timeYear": 232,
     "dailyMinutesDown": {
@@ -313,7 +313,7 @@
       "2026-08-17": 1366,
       "2026-08-16": 1440,
       "2026-08-18": 1349,
-      "2026-08-19": 1045
+      "2026-08-19": 1101
     }
   },
   {
