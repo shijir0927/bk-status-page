@@ -4,16 +4,16 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "84.83%",
-    "uptimeDay": "5.94%",
-    "uptimeWeek": "3.94%",
+    "status": "up",
+    "uptime": "84.82%",
+    "uptimeDay": "5.98%",
+    "uptimeWeek": "3.62%",
     "uptimeMonth": "2.41%",
-    "uptimeYear": "78.22%",
-    "time": 230,
-    "timeDay": 137,
+    "uptimeYear": "78.21%",
+    "time": 234,
+    "timeDay": 147,
     "timeWeek": 110,
-    "timeMonth": 93,
+    "timeMonth": 95,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-05-16": 876,
@@ -106,7 +106,7 @@
       "2026-08-16": 1421,
       "2026-08-18": 1322,
       "2026-08-17": 1440,
-      "2026-08-19": 997
+      "2026-08-19": 1036
     }
   },
   {
@@ -114,16 +114,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "85.94%",
-    "uptimeDay": "4.00%",
-    "uptimeWeek": "27.21%",
+    "status": "up",
+    "uptime": "85.93%",
+    "uptimeDay": "4.03%",
+    "uptimeWeek": "27.22%",
     "uptimeMonth": "8.10%",
     "uptimeYear": "79.81%",
     "time": 104,
-    "timeDay": 33,
-    "timeWeek": 58,
-    "timeMonth": 75,
+    "timeDay": 60,
+    "timeWeek": 63,
+    "timeMonth": 76,
     "timeYear": 60,
     "dailyMinutesDown": {
       "2026-05-19": 627,
@@ -212,7 +212,7 @@
       "2026-08-14": 1440,
       "2026-08-17": 834,
       "2026-08-16": 286,
-      "2026-08-19": 981,
+      "2026-08-19": 1020,
       "2026-08-18": 1024
     }
   },
@@ -223,12 +223,12 @@
     "slug": "backer-kit-backer-tracker",
     "status": "down",
     "uptime": "86.65%",
-    "uptimeDay": "5.15%",
+    "uptimeDay": "4.41%",
     "uptimeWeek": "5.15%",
     "uptimeMonth": "4.28%",
     "uptimeYear": "80.84%",
     "time": 246,
-    "timeDay": 141,
+    "timeDay": 129,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 232,
@@ -313,7 +313,7 @@
       "2026-08-17": 1366,
       "2026-08-16": 1440,
       "2026-08-18": 1349,
-      "2026-08-19": 980
+      "2026-08-19": 1020
     }
   },
   {
