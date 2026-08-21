@@ -107,7 +107,7 @@
       "2026-08-17": 1440,
       "2026-08-19": 1333,
       "2026-08-20": 1400,
-      "2026-08-21": 925
+      "2026-08-21": 954
     }
   },
   {
@@ -115,20 +115,20 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "up",
-    "uptime": "85.88%",
-    "uptimeDay": "3.98%",
-    "uptimeWeek": "27.37%",
-    "uptimeMonth": "7.79%",
-    "uptimeYear": "79.66%",
+    "status": "down",
+    "uptime": "85.99%",
+    "uptimeDay": "5.98%",
+    "uptimeWeek": "27.66%",
+    "uptimeMonth": "7.86%",
+    "uptimeYear": "79.81%",
     "time": 103,
-    "timeDay": 55,
-    "timeWeek": 56,
-    "timeMonth": 76,
+    "timeDay": 50,
+    "timeWeek": 55,
+    "timeMonth": 75,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2026-05-21": 884,
       "2026-05-22": 933,
+      "2026-05-21": 107,
       "2026-05-24": 1061,
       "2026-05-23": 1440,
       "2026-05-25": 1202,
@@ -227,7 +227,7 @@
     "uptimeDay": "1.49%",
     "uptimeWeek": "2.91%",
     "uptimeMonth": "3.34%",
-    "uptimeYear": "80.57%",
+    "uptimeYear": "80.56%",
     "time": 245,
     "timeDay": 111,
     "timeWeek": 135,
@@ -315,7 +315,7 @@
       "2026-08-18": 1349,
       "2026-08-19": 1347,
       "2026-08-20": 1419,
-      "2026-08-21": 925
+      "2026-08-21": 955
     }
   },
   {
