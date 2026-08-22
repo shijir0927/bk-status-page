@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "3.19%",
     "uptimeMonth": "2.18%",
-    "uptimeYear": "77.79%",
+    "uptimeYear": "77.77%",
     "time": 232,
     "timeDay": 15,
     "timeWeek": 107,
@@ -107,6 +107,7 @@
       "2026-08-17": 1440,
       "2026-08-19": 1333,
       "2026-08-20": 1400,
+      "2026-08-22": 58,
       "2026-08-21": 1440
     }
   },
@@ -120,7 +121,7 @@
     "uptimeDay": "4.43%",
     "uptimeWeek": "27.66%",
     "uptimeMonth": "7.74%",
-    "uptimeYear": "79.72%",
+    "uptimeYear": "79.71%",
     "time": 103,
     "timeDay": 27,
     "timeWeek": 55,
@@ -214,7 +215,8 @@
       "2026-08-19": 1357,
       "2026-08-18": 1024,
       "2026-08-20": 1418,
-      "2026-08-21": 1377
+      "2026-08-21": 1377,
+      "2026-08-22": 58
     }
   },
   {
@@ -224,14 +226,14 @@
     "slug": "backer-kit-backer-tracker",
     "status": "up",
     "uptime": "86.45%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "2.91%",
+    "uptimeDay": "4.09%",
+    "uptimeWeek": "3.49%",
     "uptimeMonth": "3.22%",
     "uptimeYear": "80.47%",
     "time": 245,
     "timeDay": 325,
     "timeWeek": 154,
-    "timeMonth": 143,
+    "timeMonth": 141,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2026-05-27": 404,
