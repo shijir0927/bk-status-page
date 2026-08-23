@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "84.37%",
+    "uptime": "84.34%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.11%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "77.40%",
+    "uptimeWeek": "2.93%",
+    "uptimeMonth": "1.23%",
+    "uptimeYear": "77.35%",
     "time": 231,
     "timeDay": 14,
     "timeWeek": 88,
@@ -109,7 +109,7 @@
       "2026-08-20": 1400,
       "2026-08-22": 1410,
       "2026-08-21": 1440,
-      "2026-08-23": 1011
+      "2026-08-23": 1288
     }
   },
   {
@@ -117,16 +117,16 @@
     "url": "https://www.backerkit.com/blog/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
-    "status": "down",
-    "uptime": "86.08%",
-    "uptimeDay": "3.79%",
-    "uptimeWeek": "13.77%",
+    "status": "up",
+    "uptime": "86.05%",
+    "uptimeDay": "3.02%",
+    "uptimeWeek": "12.36%",
     "uptimeMonth": "6.50%",
-    "uptimeYear": "79.86%",
+    "uptimeYear": "79.81%",
     "time": 103,
-    "timeDay": 59,
-    "timeWeek": 56,
-    "timeMonth": 70,
+    "timeDay": 54,
+    "timeWeek": 59,
+    "timeMonth": 71,
     "timeYear": 60,
     "dailyMinutesDown": {
       "2026-05-24": 396,
@@ -215,7 +215,7 @@
       "2026-08-20": 1418,
       "2026-08-21": 1377,
       "2026-08-22": 1429,
-      "2026-08-23": 967
+      "2026-08-23": 1245
     }
   },
   {
@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "86.28%",
+    "uptime": "86.24%",
     "uptimeDay": "2.56%",
     "uptimeWeek": "3.93%",
     "uptimeMonth": "2.18%",
-    "uptimeYear": "80.15%",
+    "uptimeYear": "80.10%",
     "time": 244,
     "timeDay": 168,
     "timeWeek": 159,
@@ -317,7 +317,7 @@
       "2026-08-20": 1419,
       "2026-08-21": 1440,
       "2026-08-22": 1344,
-      "2026-08-23": 989
+      "2026-08-23": 1267
     }
   },
   {
