@@ -4,16 +4,16 @@
     "url": "https://www.backerkit.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
-    "status": "down",
-    "uptime": "83.98%",
-    "uptimeDay": "0.00%",
+    "status": "up",
+    "uptime": "83.95%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "1.51%",
     "uptimeMonth": "0.96%",
-    "uptimeYear": "76.70%",
+    "uptimeYear": "76.66%",
     "time": 230,
-    "timeDay": 44,
-    "timeWeek": 73,
-    "timeMonth": 96,
+    "timeDay": 191,
+    "timeWeek": 86,
+    "timeMonth": 99,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2026-05-18": 902,
@@ -110,7 +110,7 @@
       "2026-08-21": 1440,
       "2026-08-24": 1423,
       "2026-08-23": 1440,
-      "2026-08-26": 720,
+      "2026-08-26": 955,
       "2026-08-25": 1440
     }
   },
@@ -120,14 +120,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "85.94%",
-    "uptimeDay": "5.35%",
-    "uptimeWeek": "3.75%",
+    "uptime": "85.91%",
+    "uptimeDay": "5.28%",
+    "uptimeWeek": "3.23%",
     "uptimeMonth": "6.85%",
-    "uptimeYear": "79.55%",
+    "uptimeYear": "79.51%",
     "time": 103,
-    "timeDay": 106,
-    "timeWeek": 69,
+    "timeDay": 93,
+    "timeWeek": 72,
     "timeMonth": 76,
     "timeYear": 60,
     "dailyMinutesDown": {
@@ -217,7 +217,7 @@
       "2026-08-23": 1381,
       "2026-08-24": 1409,
       "2026-08-25": 1353,
-      "2026-08-26": 697
+      "2026-08-26": 933
     }
   },
   {
@@ -226,14 +226,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
     "status": "down",
-    "uptime": "86.62%",
-    "uptimeDay": "8.91%",
-    "uptimeWeek": "7.33%",
+    "uptime": "86.59%",
+    "uptimeDay": "5.55%",
+    "uptimeWeek": "6.97%",
     "uptimeMonth": "3.34%",
-    "uptimeYear": "80.55%",
+    "uptimeYear": "80.50%",
     "time": 240,
-    "timeDay": 157,
-    "timeWeek": 174,
+    "timeDay": 169,
+    "timeWeek": 175,
     "timeMonth": 153,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -316,7 +316,7 @@
       "2026-08-23": 1418,
       "2026-08-24": 1167,
       "2026-08-25": 1241,
-      "2026-08-26": 685
+      "2026-08-26": 920
     }
   },
   {
