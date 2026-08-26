@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-crowdfunding",
     "status": "down",
-    "uptime": "84.05%",
+    "uptime": "84.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.93%",
     "uptimeMonth": "1.27%",
-    "uptimeYear": "76.83%",
+    "uptimeYear": "76.77%",
     "time": 230,
     "timeDay": 44,
     "timeWeek": 81,
@@ -110,7 +110,7 @@
       "2026-08-21": 1440,
       "2026-08-24": 1423,
       "2026-08-23": 1440,
-      "2026-08-26": 62,
+      "2026-08-26": 357,
       "2026-08-25": 1440
     }
   },
@@ -120,11 +120,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-blog",
     "status": "down",
-    "uptime": "86.01%",
+    "uptime": "85.97%",
     "uptimeDay": "5.98%",
     "uptimeWeek": "3.53%",
     "uptimeMonth": "6.80%",
-    "uptimeYear": "79.67%",
+    "uptimeYear": "79.61%",
     "time": 103,
     "timeDay": 136,
     "timeWeek": 71,
@@ -218,7 +218,7 @@
       "2026-08-23": 1381,
       "2026-08-24": 1409,
       "2026-08-25": 1353,
-      "2026-08-26": 62
+      "2026-08-26": 357
     }
   },
   {
@@ -226,14 +226,14 @@
     "url": "https://www.backerkit.com/backertracker",
     "icon": "https://icons.duckduckgo.com/ip3/www.backerkit.com.ico",
     "slug": "backer-kit-backer-tracker",
-    "status": "down",
-    "uptime": "86.59%",
-    "uptimeDay": "13.85%",
+    "status": "up",
+    "uptime": "86.56%",
+    "uptimeDay": "13.86%",
     "uptimeWeek": "6.98%",
     "uptimeMonth": "3.26%",
-    "uptimeYear": "80.53%",
-    "time": 241,
-    "timeDay": 158,
+    "uptimeYear": "80.47%",
+    "time": 240,
+    "timeDay": 159,
     "timeWeek": 178,
     "timeMonth": 154,
     "timeYear": 228,
@@ -318,7 +318,7 @@
       "2026-08-23": 1418,
       "2026-08-24": 1167,
       "2026-08-25": 1241,
-      "2026-08-26": 62
+      "2026-08-26": 357
     }
   },
   {
